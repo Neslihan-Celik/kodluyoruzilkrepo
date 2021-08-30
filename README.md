@@ -3,4 +3,4 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-*```System.out.print("hello");```
+*```java System.out.print("hello");```
