@@ -1,3 +1,8 @@
 # kodluyoruzilkrepo
+
+
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-Bu repo düzenlendi
+''' 
+java
+System.out.print("hello");
+'''
